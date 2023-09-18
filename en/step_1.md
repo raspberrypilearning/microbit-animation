@@ -1,59 +1,25 @@
-## Introduction
+To create an animation, you can put the 'show leds' blocks in a loop.
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+--- task ---
 
-### What you will make
+From the <code style="background-color: #1E90FF">Basic</code> menu, drag out **three** <code style="background-color: #1E90FF">show leds</code> blocks.
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+Click the squares on each one to create a pattern:
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+<div style="position:relative;height:calc(400px + 5em);width:100%;overflow:hidden;"><iframe style="position:relative;top:0;left:0;width:50%;height:100%;" src="https://makecode.microbit.org/---codeembed#pub:_gDu6afhiWDM0" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+**Tip** If you hold down the mouse, you can select multiple LEDs as you move.
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+--- /task ---
 
-+ A computer or tablet capable of running Scratch 3
+To create an animation, you can put the 'show leds' blocks in a loop.
 
-### Software
+--- task ---
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+From the <code style="background-color: #00AA00">Loops</code> menu, drag a <code style="background-color: #00AA00">repeat</code> block and place it around the three <code style="background-color: #1E90FF">show leds</code> blocks.
 
-### Downloads
+Change the number of repeats from `4` to the number of times you want the animation to repeat.
 
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
+<img src="images/animation-ingredient.gif" alt="Animation showing the 'repeat' block taken from the Loops menu. The 'repeat' block is then held over the top 'show leds' block and released, making the three 'show leds' blocks snap inside it. The number is then changed from a '4' to a '2'." width="350"/>
 
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+--- /task ---
