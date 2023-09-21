@@ -4,11 +4,11 @@ Here is an example.
 
 <div style="position:relative;height:calc(400px + 5em);width:100%;overflow:hidden;"><iframe style="position:relative;top:0;left:0;width:50%;height:100%;" src="https://makecode.microbit.org/---codeembed#pub:_gDu6afhiWDM0" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
 
-You can find the <code style="background-color: #1E90FF">show leds</code> block in the <code style="background-color: #1E90FF">Basic</code> menu in your Toolbox.
+You can find the `show leds`{:class='microbitbasic'} block  block in the `Basic`{:class='microbitbasic'} block  menu in your Toolbox.
 
 <img src="images/show-leds.png" alt="The Basic menu, with the 'show leds' block highlighted."  width="250"/>
 
-Drag out three <code style="background-color: #1E90FF">show leds</code> blocks and put them together.
+Drag out three `show leds`{:class='microbitbasic'} blocks and put them together.
 
 **Tip:** 💡 Add more blocks if you want a longer animation.
 
@@ -22,7 +22,7 @@ When the code runs, the LEDs will display each image in turn.
 
 ## Looping your animation
 
-From the <code style="background-color: #00AA00">Loops</code> menu, drag a <code style="background-color: #00AA00">repeat</code> block and place it around the <code style="background-color: #1E90FF">show leds</code> blocks.
+From the `Loops`{:class='microbitloops'} menu, drag a `repeat`{:class='microbitloops'} block and place it around the `show leds`{:class='microbitbasic'} blocks.
 
 Change the number of repeats from `4` to the number of times you want the animation to repeat.
 
