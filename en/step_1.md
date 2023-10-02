@@ -2,7 +2,29 @@ To create an animation, you can put **multiple** 'show leds' blocks together.
 
 Here is an example.
 
-<div style="position:relative;height:calc(400px + 5em);width:100%;overflow:hidden;"><iframe style="position:relative;top:0;left:0;width:50%;height:100%;" src="https://makecode.microbit.org/---codeembed#pub:_gDu6afhiWDM0" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
+```microbit
+basic.showLeds(`
+    . . . . .
+    . . . . .
+    . . # . .
+    . . . . .
+    . . . . .
+    `)
+basic.showLeds(`
+    . . . . .
+    . # # # .
+    . # . # .
+    . # # # .
+    . . . . .
+    `)
+basic.showLeds(`
+    # # # # #
+    # . . . #
+    # . . . #
+    # . . . #
+    # # # # #
+    `)
+```
 
 You can find the `show leds`{:class='microbitbasic'} block in the `Basic`{:class='microbitbasic'} block menu in your Toolbox.
 
