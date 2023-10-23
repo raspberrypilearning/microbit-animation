@@ -1,4 +1,4 @@
-To create an animation, you can put **multiple** 'show leds' blocks together.
+To create an animation, you can put **multiple** `show leds`{:class='microbitbasic'} blocks together.
 
 Here is an example.
 
@@ -34,7 +34,7 @@ Drag out three `show leds`{:class='microbitbasic'} blocks and put them together.
 
 **Tip:** 💡 Add more blocks if you want a longer animation.
 
-Click the squares on each one to create a pattern. 
+Click the squares on each block to create a pattern. 
 
 **Tip:** 💡 Hold down the mouse to select multiple LEDs as you move.
 
@@ -42,7 +42,7 @@ When the code runs, the LEDs will display each image in turn.
 
 
 
-## Looping your animation
+## Loop your animation
 
 From the `Loops`{:class='microbitloops'} menu, drag a `repeat`{:class='microbitloops'} block and place it around the `show leds`{:class='microbitbasic'} blocks.
 
