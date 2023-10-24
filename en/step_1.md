@@ -26,7 +26,7 @@ basic.showLeds(`
     `)
 ```
 
-You can find the `show leds`{:class='microbitbasic'} block in the `Basic`{:class='microbitbasic'} block menu in your Toolbox.
+You can find the `show leds`{:class='microbitbasic'} block in the `Basic`{:class='microbitbasic'} menu in your Toolbox.
 
 <img src="images/show-leds.png" alt="The Basic menu, with the 'show leds' block highlighted."  width="250"/>
 
